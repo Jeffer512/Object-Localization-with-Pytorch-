@@ -1,6 +1,6 @@
 # Single Object Localization with PyTorch
 
-A computer vision project that uses a pre-trained EfficientNet-B0 to predict bounding box coordinates $(x_{min}, y_{min}, x_{max}, y_{max})$ for single objects in images. It uses PyTorch, and `timm` (PyTorch Image Models) to load the pre-trained EfficientNet-B0 model.
+Single object localization using a pre-trained EfficientNet-B0 to predict bounding box coordinates $(x_{min}, y_{min}, x_{max}, y_{max})$ for single objects in images. It uses PyTorch, and `timm` (PyTorch Image Models) to load the pre-trained EfficientNet-B0 model.
 
 ## Architecture
 
